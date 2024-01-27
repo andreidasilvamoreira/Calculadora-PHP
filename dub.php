@@ -9,7 +9,6 @@
 </head>
 
 <body>
-
     <main>
         <h1>Calculadora</h1>
         <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="get">
